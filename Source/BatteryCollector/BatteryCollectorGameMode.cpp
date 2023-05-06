@@ -1,7 +1,7 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
-#include "Kismet/GameplayStatics.h"
 #include "BatteryCollectorGameMode.h"
+#include "Kismet/GameplayStatics.h"
 #include "BatteryCollectorCharacter.h"
 #include "UObject/ConstructorHelpers.h"
 #include "GameFramework/PawnMovementComponent.h"
